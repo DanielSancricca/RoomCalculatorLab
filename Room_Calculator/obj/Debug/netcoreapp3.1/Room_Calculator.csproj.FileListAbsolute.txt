@@ -1,0 +1,14 @@
+C:\Users\dansa\source\repos\Room_Calculator\Room_Calculator\bin\Debug\netcoreapp3.1\Room_Calculator.exe
+C:\Users\dansa\source\repos\Room_Calculator\Room_Calculator\bin\Debug\netcoreapp3.1\Room_Calculator.deps.json
+C:\Users\dansa\source\repos\Room_Calculator\Room_Calculator\bin\Debug\netcoreapp3.1\Room_Calculator.runtimeconfig.json
+C:\Users\dansa\source\repos\Room_Calculator\Room_Calculator\bin\Debug\netcoreapp3.1\Room_Calculator.runtimeconfig.dev.json
+C:\Users\dansa\source\repos\Room_Calculator\Room_Calculator\bin\Debug\netcoreapp3.1\Room_Calculator.dll
+C:\Users\dansa\source\repos\Room_Calculator\Room_Calculator\bin\Debug\netcoreapp3.1\Room_Calculator.pdb
+C:\Users\dansa\source\repos\Room_Calculator\Room_Calculator\obj\Debug\netcoreapp3.1\Room_Calculator.csproj.AssemblyReference.cache
+C:\Users\dansa\source\repos\Room_Calculator\Room_Calculator\obj\Debug\netcoreapp3.1\Room_Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dansa\source\repos\Room_Calculator\Room_Calculator\obj\Debug\netcoreapp3.1\Room_Calculator.AssemblyInfoInputs.cache
+C:\Users\dansa\source\repos\Room_Calculator\Room_Calculator\obj\Debug\netcoreapp3.1\Room_Calculator.AssemblyInfo.cs
+C:\Users\dansa\source\repos\Room_Calculator\Room_Calculator\obj\Debug\netcoreapp3.1\Room_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\dansa\source\repos\Room_Calculator\Room_Calculator\obj\Debug\netcoreapp3.1\Room_Calculator.dll
+C:\Users\dansa\source\repos\Room_Calculator\Room_Calculator\obj\Debug\netcoreapp3.1\Room_Calculator.pdb
+C:\Users\dansa\source\repos\Room_Calculator\Room_Calculator\obj\Debug\netcoreapp3.1\Room_Calculator.genruntimeconfig.cache
